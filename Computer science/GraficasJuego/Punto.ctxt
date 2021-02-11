@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=fila\ columna\ color\ tam\ cx\ cy
+comment1.target=Punto(int,\ int,\ java.awt.Color,\ int,\ int,\ int)
+comment1.text=Constructor\ de\ la\ clase
+numComments=2

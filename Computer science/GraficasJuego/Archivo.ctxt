@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=t
+comment1.target=void\ leerGrabar(Tablero)
+comment1.text=M\u00E9todo\ para\ grabar\ la\ partida
+comment2.params=t
+comment2.target=void\ abrir(Tablero)
+comment2.text=M\u00E9todo\ para\ abrir\ una\ partida\ guardada
+numComments=3

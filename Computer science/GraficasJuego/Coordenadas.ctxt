@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Coordenadas
+comment0.text=\r\n\ Clase\ que\ es\ usada\ para\ referenciar\ obetos\ de\ tipo\ coordenada,\ es\ decir,\ que\ tienen\ una\ posici\u00F3n\ x,y\ en\ el\ jPanel\r\n\ \r\n\ @author\ Pablo\ A.\ Osorio\ Marulanda\r\n\ @version\ 27/05/2018\r\n
+comment1.params=enX\ enY
+comment1.target=Coordenadas(int,\ int)
+comment1.text=Constructor\ de\ la\ Clase\ X
+numComments=2
