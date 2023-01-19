@@ -1,0 +1,1 @@
+This folder compiles the shareable contents developed in the subject of artificial intelligence. Different approaches to the solution of a particular problem are recognized by implementing supervised, unsupervised, hybrid and neural network approaches. 
