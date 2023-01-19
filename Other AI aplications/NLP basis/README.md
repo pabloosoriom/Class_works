@@ -1,0 +1,1 @@
+Here we compile the advances and findings made in a project of NLP for medical findings where some techniques of pattern recognition in text are used, with the objective of recognizing the key words in the analysis. 
